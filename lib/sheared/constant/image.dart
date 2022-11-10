@@ -1,0 +1,2 @@
+String? profile;
+String? cover;
